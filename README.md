@@ -12,3 +12,5 @@ please change the path in main.py to your checkpoint.tar location
 ![test_occ5.jpg](https://i.loli.net/2021/05/24/TyxV2Q5Oldmqrv6.jpg)
 ![test_disp5.png](https://i.loli.net/2021/05/24/KnzV5NmLRWIlqSx.png)
 
+## Gound Truth
+![1621863547.png](https://i.loli.net/2021/05/24/JAL6dWqOhMpcl7t.png)
