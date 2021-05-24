@@ -4,4 +4,4 @@
 # Traning:
   python main.py
 # pretrained model:
-
+please change the path in main.py to your checkpoint.tar location
